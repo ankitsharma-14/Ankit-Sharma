@@ -1,1 +1,2 @@
 # Ankit-Sharma
+My name is Ankit Sharma, and I am currently a first-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology, Pune. Originally from Janjgir-Champa, Chhattisgarh, I have always been fascinated by how technology can be harnessed to solve real-world problems. My interest in AI stems from a desire to understand how machines learn, recognize patterns, and make intelligent decisions
